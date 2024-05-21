@@ -1,6 +1,7 @@
 {
  "users":
-[{"id":1,"name":"Dominica Bickmore","category":"WTO"},
+[
+ {"id":1,"name":"Dominica Bickmore","category":"WTO"},
 {"id":2,"name":"Mersey Woolbrook","category":"Whiplash"},
 {"id":3,"name":"Alec Prior","category":"Nickel"},
 {"id":4,"name":"Edna Sexty","category":"Financial Risk"},
